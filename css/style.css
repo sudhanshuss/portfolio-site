@@ -1,0 +1,24 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #2d3c49;
+}
+
+/* used for horitzontal line color*/
+hr {
+    border: none;
+    height: 4px;
+    background-color: #7d97ad;
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-default{
+	color: #2d3c49;
+}
